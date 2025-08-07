@@ -69,7 +69,7 @@ Identified a significant digital divide in financial services access, with stron
 ---
 
 ### **4. 100 Days of Code – Python Challenge**
-[🔗 View Project Repository](https://github.com/dimma-analytics/100-days-python)
+[🔗 View Project Repository](https://github.com/dimma-analytics/100-Days-Of-Code)
 
 • **Brief Description:**  
 A personal challenge to strengthen my Python skills through daily coding. Each day includes a mini project, script, or automation task designed to build fluency with real-world tools and logic.
